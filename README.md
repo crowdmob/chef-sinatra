@@ -40,11 +40,11 @@ Required Databag
 
 Dependencies
 ------------------------------------
-* `deploy`: https://github.com/aws/opsworks-cookbooks/tree/master/deploy
+* `deploy`: https://github.com/aws/opsworks-cookbooks/tree/release-chef-11.4/deploy
 
 ###### Optional Dependencies
 
-* `nginx`: https://github.com/aws/opsworks-cookbooks/tree/master/nginx
-* `unicorn::rack`: https://github.com/crowdmob/opsworks-cookbooks/tree/master/unicorn
+* `nginx`: https://github.com/aws/opsworks-cookbooks/tree/release-chef-11.4/nginx
+* `unicorn::rack`: https://github.com/aws/opsworks-cookbooks/tree/release-chef-11.4/unicorn
 
 
